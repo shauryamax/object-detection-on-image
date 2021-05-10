@@ -1,0 +1,25 @@
+body
+{
+background-position: center;
+background-size: cover;
+background-image: linear-gradient(to right, #1f60f6, #008eff, #00b2ff, #00d1fc, #12ebeb);
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 180px;
+}
